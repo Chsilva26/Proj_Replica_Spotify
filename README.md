@@ -1,2 +1,2 @@
 # Proj_Replica_Spotify
-Réplica do Spotify: HTML5, CSS3, JavaScript, React, Node, Mongo DB
+Réplica funcional do Spotify usando React (Front-end), Node/Express (Back-end) e MongoDB (Banco de Dados), aprendendo a construir a interface, a lógica do servidor e um player de áudio completo, culminando em deploy
