@@ -1,4 +1,4 @@
-<!-- # 🎧 Proj_Replica_Spotify
+-- # 🎧 Proj_Replica_Spotify
 
 Uma **réplica do Spotify** desenvolvida com foco em aprendizado e portfólio, utilizando tecnologias modernas de **Front-end e Back-end**.  
 O projeto simula a experiência de um player de música, com interface interativa e comunicação com API.
@@ -17,7 +17,7 @@ O **Proj_Replica_Spotify** é um projeto inspirado no Spotify, criado com o obje
 
 > ⚠️ Projeto desenvolvido para fins educacionais, sem fins comerciais.
 
---- -->
+--- 
 
 ## 🖥️ Tela Inicial
 
@@ -25,8 +25,7 @@ O **Proj_Replica_Spotify** é um projeto inspirado no Spotify, criado com o obje
   <img src="assets/home.png" width="600"/>
 </p>
 
-<!-- ---
-
+ ---
 ## 🚀 Funcionalidades
 
 - 🎶 Player de música (play / pause)
@@ -56,4 +55,4 @@ O **Proj_Replica_Spotify** é um projeto inspirado no Spotify, criado com o obje
 
 ---
 
-## 📁 Estrutura do Projeto -->
+## 📁 Estrutura do Projeto 
