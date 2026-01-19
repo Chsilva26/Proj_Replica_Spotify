@@ -22,7 +22,7 @@ O **Proj_Replica_Spotify** é um projeto inspirado no Spotify, criado com o obje
 ## 🖥️ Tela Inicial
 
 <p align="center">
-  <img src="assets/home.png" width="600"/>
+  <img src="assets/Home.png" width="600"/>
 </p>
 
  ---
