@@ -15,7 +15,7 @@ O **Proj_Replica_Spotify** é um projeto inspirado no Spotify, criado com o obje
 - Integração entre cliente e servidor
 - Organização de projeto Full Stack
 
-> ⚠️ Projeto desenvolvido para fins educacionais, sem fins comerciais.
+>  Projeto desenvolvido para fins educacionais
 
 --- 
 
@@ -35,8 +35,6 @@ O **Proj_Replica_Spotify** é um projeto inspirado no Spotify, criado com o obje
 - 🧑‍💻 Estrutura organizada em camadas
 - 📱 Layout responsivo
 
-> 💡 Funcionalidades podem evoluir conforme o projeto avança.
-
 ---
 
 ## 🧰 Tecnologias Utilizadas
@@ -52,7 +50,3 @@ O **Proj_Replica_Spotify** é um projeto inspirado no Spotify, criado com o obje
 - **Express.js**
 - **MongoDB**
 - **Mongoose**
-
----
-
-## 📁 Estrutura do Projeto 
